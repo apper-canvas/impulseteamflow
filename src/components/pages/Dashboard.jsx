@@ -125,9 +125,9 @@ const Dashboard = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {departments.map((dept, index) => (
+{departments.map((dept, index) => (
               <motion.div
-                key={dept.id}
+                key={dept?.id ? String(dept.id) : `dept-${index}`}
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: index * 0.1 }}
@@ -178,9 +178,9 @@ const Dashboard = () => {
             />
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {recentHires.map((employee, index) => (
+{recentHires.map((employee, index) => (
                 <motion.div
-                  key={employee.Id}
+                  key={employee?.Id ? String(employee.Id) : `employee-${index}`}
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: index * 0.1 }}
