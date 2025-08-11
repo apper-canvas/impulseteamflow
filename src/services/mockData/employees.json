@@ -1,0 +1,266 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "email": "sarah.johnson@teamflow.com",
+    "phone": "+1 (555) 123-4567",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "startDate": "2022-03-15",
+    "status": "active",
+    "address": {
+      "street": "123 Tech Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94105"
+    },
+    "emergencyContact": {
+      "name": "John Johnson",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 234-5678"
+    }
+  },
+  {
+    "Id": 2,
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@teamflow.com",
+    "phone": "+1 (555) 234-5678",
+    "role": "Product Manager",
+    "department": "Product",
+    "startDate": "2021-11-20",
+    "status": "active",
+    "address": {
+      "street": "456 Business Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94107"
+    },
+    "emergencyContact": {
+      "name": "Lisa Chen",
+      "relationship": "Wife",
+      "phone": "+1 (555) 345-6789"
+    }
+  },
+  {
+    "Id": 3,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@teamflow.com",
+    "phone": "+1 (555) 345-6789",
+    "role": "UX Designer",
+    "department": "Design",
+    "startDate": "2023-01-10",
+    "status": "active",
+    "address": {
+      "street": "789 Design Blvd",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94110"
+    },
+    "emergencyContact": {
+      "name": "Robert Davis",
+      "relationship": "Father",
+      "phone": "+1 (555) 456-7890"
+    }
+  },
+  {
+    "Id": 4,
+    "firstName": "David",
+    "lastName": "Wilson",
+    "email": "david.wilson@teamflow.com",
+    "phone": "+1 (555) 456-7890",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "startDate": "2022-07-01",
+    "status": "onLeave",
+    "address": {
+      "street": "321 Cloud Lane",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94103"
+    },
+    "emergencyContact": {
+      "name": "Mary Wilson",
+      "relationship": "Mother",
+      "phone": "+1 (555) 567-8901"
+    }
+  },
+  {
+    "Id": 5,
+    "firstName": "Jessica",
+    "lastName": "Brown",
+    "email": "jessica.brown@teamflow.com",
+    "phone": "+1 (555) 567-8901",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "startDate": "2023-05-15",
+    "status": "active",
+    "address": {
+      "street": "654 Market Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102"
+    },
+    "emergencyContact": {
+      "name": "Tom Brown",
+      "relationship": "Brother",
+      "phone": "+1 (555) 678-9012"
+    }
+  },
+  {
+    "Id": 6,
+    "firstName": "Alex",
+    "lastName": "Miller",
+    "email": "alex.miller@teamflow.com",
+    "phone": "+1 (555) 678-9012",
+    "role": "Sales Manager",
+    "department": "Sales",
+    "startDate": "2021-09-12",
+    "status": "active",
+    "address": {
+      "street": "987 Sales Plaza",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94108"
+    },
+    "emergencyContact": {
+      "name": "Sarah Miller",
+      "relationship": "Sister",
+      "phone": "+1 (555) 789-0123"
+    }
+  },
+  {
+    "Id": 7,
+    "firstName": "Rachel",
+    "lastName": "Garcia",
+    "email": "rachel.garcia@teamflow.com",
+    "phone": "+1 (555) 789-0123",
+    "role": "HR Coordinator",
+    "department": "Human Resources",
+    "startDate": "2022-12-05",
+    "status": "active",
+    "address": {
+      "street": "147 HR Boulevard",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94109"
+    },
+    "emergencyContact": {
+      "name": "Carlos Garcia",
+      "relationship": "Husband",
+      "phone": "+1 (555) 890-1234"
+    }
+  },
+  {
+    "Id": 8,
+    "firstName": "James",
+    "lastName": "Taylor",
+    "email": "james.taylor@teamflow.com",
+    "phone": "+1 (555) 890-1234",
+    "role": "Finance Analyst",
+    "department": "Finance",
+    "startDate": "2023-02-20",
+    "status": "active",
+    "address": {
+      "street": "258 Finance Way",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94104"
+    },
+    "emergencyContact": {
+      "name": "Jennifer Taylor",
+      "relationship": "Wife",
+      "phone": "+1 (555) 901-2345"
+    }
+  },
+  {
+    "Id": 9,
+    "firstName": "Lisa",
+    "lastName": "Anderson",
+    "email": "lisa.anderson@teamflow.com",
+    "phone": "+1 (555) 901-2345",
+    "role": "Quality Assurance Engineer",
+    "department": "Engineering",
+    "startDate": "2022-04-18",
+    "status": "active",
+    "address": {
+      "street": "369 QA Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94106"
+    },
+    "emergencyContact": {
+      "name": "Mike Anderson",
+      "relationship": "Husband",
+      "phone": "+1 (555) 012-3456"
+    }
+  },
+  {
+    "Id": 10,
+    "firstName": "Kevin",
+    "lastName": "Martinez",
+    "email": "kevin.martinez@teamflow.com",
+    "phone": "+1 (555) 012-3456",
+    "role": "Customer Support Lead",
+    "department": "Support",
+    "startDate": "2021-08-30",
+    "status": "active",
+    "address": {
+      "street": "741 Support Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94111"
+    },
+    "emergencyContact": {
+      "name": "Maria Martinez",
+      "relationship": "Mother",
+      "phone": "+1 (555) 123-4567"
+    }
+  },
+  {
+    "Id": 11,
+    "firstName": "Amanda",
+    "lastName": "Thompson",
+    "email": "amanda.thompson@teamflow.com",
+    "phone": "+1 (555) 213-4567",
+    "role": "Content Writer",
+    "department": "Marketing",
+    "startDate": "2023-06-01",
+    "status": "active",
+    "address": {
+      "street": "852 Content Lane",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94112"
+    },
+    "emergencyContact": {
+      "name": "Brian Thompson",
+      "relationship": "Brother",
+      "phone": "+1 (555) 324-5678"
+    }
+  },
+  {
+    "Id": 12,
+    "firstName": "Ryan",
+    "lastName": "White",
+    "email": "ryan.white@teamflow.com",
+    "phone": "+1 (555) 324-5678",
+    "role": "Junior Developer",
+    "department": "Engineering",
+    "startDate": "2023-08-14",
+    "status": "active",
+    "address": {
+      "street": "963 Dev Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94113"
+    },
+    "emergencyContact": {
+      "name": "Linda White",
+      "relationship": "Mother",
+      "phone": "+1 (555) 435-6789"
+    }
+  }
+]

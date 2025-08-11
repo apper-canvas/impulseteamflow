@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "name": "Engineering",
+    "managerId": 1,
+    "employeeCount": 5,
+    "description": "Software development and technical operations"
+  },
+  {
+    "Id": 2,
+    "name": "Product",
+    "managerId": 2,
+    "employeeCount": 1,
+    "description": "Product strategy and management"
+  },
+  {
+    "Id": 3,
+    "name": "Design",
+    "managerId": 3,
+    "employeeCount": 1,
+    "description": "User experience and visual design"
+  },
+  {
+    "Id": 4,
+    "name": "Marketing",
+    "managerId": 5,
+    "employeeCount": 2,
+    "description": "Marketing campaigns and content creation"
+  },
+  {
+    "Id": 5,
+    "name": "Sales",
+    "managerId": 6,
+    "employeeCount": 1,
+    "description": "Customer acquisition and revenue growth"
+  },
+  {
+    "Id": 6,
+    "name": "Human Resources",
+    "managerId": 7,
+    "employeeCount": 1,
+    "description": "Employee relations and organizational development"
+  },
+  {
+    "Id": 7,
+    "name": "Finance",
+    "managerId": 8,
+    "employeeCount": 1,
+    "description": "Financial planning and analysis"
+  },
+  {
+    "Id": 8,
+    "name": "Support",
+    "managerId": 10,
+    "employeeCount": 1,
+    "description": "Customer support and success"
+  }
+]
